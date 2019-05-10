@@ -1,3 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://steven123:steven123@devin-xkjk9.mongodb.net/test?retryWrites=true"
+  "mongoURI": "mongodb+srv://steven123:steven123@devin-xkjk9.mongodb.net/test?retryWrites=true",
+  "jwtSecret": "Charles Leclerc"
 }
